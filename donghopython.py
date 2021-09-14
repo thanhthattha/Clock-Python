@@ -1,4 +1,4 @@
-# inport elements
+# import elements
 from tkinter import*
 from tkinter.ttk import*
 from time import strftime
